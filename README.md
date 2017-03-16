@@ -1,10 +1,10 @@
 # Stanford-Developing-iOS-10-Apps-with-Swift-Subtitles
 
-Include
+## Include
 
 
 English
-
+ 
 
 Simplified Chinese
 
@@ -12,4 +12,5 @@ Simplified Chinese
 Traditional Chinese
 
 
-Welcome submission
+
+## Welcome to join us
